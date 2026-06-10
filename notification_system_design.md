@@ -1,7 +1,7 @@
 # Notification System Design
 
 ## Overview
-This document outlines the design of the notification system for the Afformed platform.
+This document outlines the design of the notification system
 
 ## Architecture Components
 
